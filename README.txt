@@ -1,0 +1,19 @@
+1. IDENTIFYING INFORMATION
+a. Full Name: Nicole Chu
+b. Student ID: 2290152 
+c. Chapman Email: nichu@chapman.edu
+d. Course Number and Section: CPSC 408-01
+e. Assignment or Exercise Number: Assignment 2
+
+2. A LIST OF ALL SOURCE FILES SUBMITTED FOR THIS ASSIGNMENT
+a. Assignment2.py
+b. Assignment2.sqlite
+
+3. A DESCRIPTION OF ANY KNOWN COMPILE OR RUNTIME ERRORS, CODE LIMITATIONS, OR DEVATIONS FROM ASSIGNMENT SPECIFICATIONS (IF APPLICABLE)
+a. n/a
+
+4. A LIST OF ALL REFERENCES USED TO COMPLETE THE ASSIGNMENT, INCLUDING PEERS (IF APPLICABLE)
+a. in-class Chapman database example
+
+5. INSTRUCTIONS FOR RUNNING THE ASSIGNMENT
+a. run .py file
